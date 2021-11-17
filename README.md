@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My First Webpage</title>
+    <title>Research Project Proposal /title>
   </head>
   <body>
     <h1>Happy Coding</h1>
-    <p>HResearch Project Proposal 
-HON 202B Fall 2021
+    <p>
 Annaka Jahn
-975540656
 	
 Introduction 
 I will be studying the area of applicable solutions to misogyny in the music industry of the United States. This field is important to research and contribute to because sexism in the workplace is a relevant and dramatic influence in professional culture. It affects the wages of women in the United States as well as their ability to do their jobs in a socially stable and respectful environment. This area of research is important because it centers around how to resolve these issues and not on whether the issues exist in the first place. Just six years ago, the wage gap was 26% higher for men’s average salaries compared to women’s (Racial and gender pay gap statistics for 2021). From 2012 to 2020, only 2.6% of music producers for a set of 600 songs were female and it was even less for the sample of just the 2020 Billboard Hot 100 songs. (Annenberg Inclusion initiative's Annual report on popular music reveals Little Progress for Women). By this year (2021), Americans have to face the difficult truth of wage gaps and sexism in the workplace. However, this truth is one that requires swift and effective solutions as well. 
