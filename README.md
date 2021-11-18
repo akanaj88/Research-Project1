@@ -19,9 +19,9 @@ By bravely sharing their stories and experiences, women in the music industry ha
 notified the public about gender inequality and harassment in the workplace. Groping and rape 
 are results of a lack of social discipline and sense of respect men have in this field. No matter how much “support” and “confidentiality” women are allowed after reporting sexual abuses in the music industry, their wellbeing is still generally unsafe in a field that houses so many unscrupulous and privileged men that will never publicly answer for their crimes against the women that they work with, manage, and mentor (Mackenzie Rape and abuse: The music industry's dark side exposed). 
 	What I would like to explore in this research project includes mainly solutions that effectively address and reduce the number of “bad mentors,” or men in positions of power and influence that have thus far been able to harass and assault women in the music industry as a form of control and use of power. This social aspect is the most difficult to tackle because it cannot be as clear as a statement of intent by a company or an individual apology to the public on the part of offenders. 
-<subtitle>
+
 Rationale 
-	<body>
+	
 	I will begin my study with not only the questions I have at present but the reasons for which they may bring the music industry closer to becoming  a neutral or equal environment for all genders. By asking these questions, I can take action that provides substantial evidence as to what the best options are in terms of fixing the problems that actively threaten women and their financial success in musical careers. 
 If women are supported more effectively in the process of reporting harassment, will they have access to the careers once offered to them conditionally in exchange for being abused?
 How do we teach men in the music industry to be socially inclusive to women in workspaces and in collaborative projects?
