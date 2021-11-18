@@ -1,24 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Research Project Proposal /title>
+    <title>Research Project Proposal<title>
   </head>
   <body>
-    <h1>Happy Coding</h1>
+    <h1>Research Project Proposal</h1>
     <p>
 Annaka Jahn
-	
+	<subtitle>
 Introduction 
+		<body>
 I will be studying the area of applicable solutions to misogyny in the music industry of the United States. This field is important to research and contribute to because sexism in the workplace is a relevant and dramatic influence in professional culture. It affects the wages of women in the United States as well as their ability to do their jobs in a socially stable and respectful environment. This area of research is important because it centers around how to resolve these issues and not on whether the issues exist in the first place. Just six years ago, the wage gap was 26% higher for men’s average salaries compared to women’s (Racial and gender pay gap statistics for 2021). From 2012 to 2020, only 2.6% of music producers for a set of 600 songs were female and it was even less for the sample of just the 2020 Billboard Hot 100 songs. (Annenberg Inclusion initiative's Annual report on popular music reveals Little Progress for Women). By this year (2021), Americans have to face the difficult truth of wage gaps and sexism in the workplace. However, this truth is one that requires swift and effective solutions as well. 
-
+<subtitle>
 Background/Review of the Literature
+	<body>
 	It is safe to say that the current occupations filled by women in the music industry in the United States are frozen in place. They make up almost all of the lower income positions and find themselves teaching more than men, compared to traveling, writing and performing (Prior et al. Women in the U.S. Music Industry Report). So, what we see is that the glamorous and higher paying jobs in the music industry are being occupied by men. Surveys show that women have noted several solutions to this issue of gender inequality and simple nonexistence in the field of work*. These include purposeful inclusive hiring practices, mentoring and internships, and accessible networking opportunities (Prior et al. Women in the U.S. Music Industry Report). One can observe the problems even when women enter the workplace or classroom early in their careers, that there are social phenomena that isolate them and put them at a disadvantage. One of these instances is common, in which men will collaborate and practically ignore women during the process (Hinkle-Turner Women and music technology: pioneers, precedents and issues in the United States). Just the addition of these extra factors can diminish the social space in which a budding artist, producer, manager, or songwriter can begin to flourish early in their career. The result is a workplace culture that largely excludes the small amount of women present in the first place. In the aforecited work by Hinkle-Turner, the conversation around mentorship is written about and yet, once women have mentors, there are questions about their quality as such, and the experience they help create for these women. 
 By bravely sharing their stories and experiences, women in the music industry have 
 notified the public about gender inequality and harassment in the workplace. Groping and rape 
 are results of a lack of social discipline and sense of respect men have in this field. No matter how much “support” and “confidentiality” women are allowed after reporting sexual abuses in the music industry, their wellbeing is still generally unsafe in a field that houses so many unscrupulous and privileged men that will never publicly answer for their crimes against the women that they work with, manage, and mentor (Mackenzie Rape and abuse: The music industry's dark side exposed). 
 	What I would like to explore in this research project includes mainly solutions that effectively address and reduce the number of “bad mentors,” or men in positions of power and influence that have thus far been able to harass and assault women in the music industry as a form of control and use of power. This social aspect is the most difficult to tackle because it cannot be as clear as a statement of intent by a company or an individual apology to the public on the part of offenders. 
-
+<subtitle>
 Rationale 
+	<body>
 	I will begin my study with not only the questions I have at present but the reasons for which they may bring the music industry closer to becoming  a neutral or equal environment for all genders. By asking these questions, I can take action that provides substantial evidence as to what the best options are in terms of fixing the problems that actively threaten women and their financial success in musical careers. 
 If women are supported more effectively in the process of reporting harassment, will they have access to the careers once offered to them conditionally in exchange for being abused?
 How do we teach men in the music industry to be socially inclusive to women in workspaces and in collaborative projects?
