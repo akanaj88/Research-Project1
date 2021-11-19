@@ -33,6 +33,21 @@ Separately, once I have recorded the interviews, I will enter the repetition of 
 5.Conclusion
 	If one were to fund this research, I would be able to publish my findings in journals and personally so that I can contribute to my musical community’s awareness and action regarding gender inequality in the workplace. This is important to me as Portland, Oregon has a large number of independent and signed artists working in close proximity with one another and sharing social and networking resources. If the culture can improve as an effect of my work, then I will have accomplished what I set out to do. As a woman in the music industry, I would greatly appreciate a significant change in the form of inclusion in my career, and live to see a difference before and after my work in terms of how I can help the problems I have observed and dealt with. 
 </p>
+Annotated Bibliography 
+Baer, R. D., & Weller, S. C. (2007). Designing a Questionnaire for Cross-Cultural Research. Long Grove ; Waveland Press Inc. 
+      This article by Baer and Weller was published in a book about research in the field of cultural anthropology, and thus it focuses on anthropological research. It covers the tools, processes of using a questionnaire for such, and why they are integral in specific explorations regarding language, biomedical works, and health surveys. This article reviews the positives and negatives, as well as steps to take regarding questionnaires of this kind. For my research project proposal, I referenced this text to explore the topic of surveys, language, and cultural bias. With this purpose, I discovered that language is very important to frame surveys to whom they are going to. If one population or subject group doesn’t understand my questions, this could be a huge variable in my data collection. 
+Berkers, and Pauwke. “Lights, Cameras… Mentors: Interview with Conchitta Bottse, Miriam Brenner and Lindsi Dendauw on How Reduce Gender Inequalities in Music.” Amsterdam University Press, 2019.
+This is a set of interviews that add personal insights to my research by being an example of how one can gather data from brave voices about mentorship in the music industry and why women must be more involved in a sexist field. 
+Tijdschrift voor genderstudies. 22, no. 1, 2019, pp. 85–94.
+Hinkle-Turner, Elizabeth. “Women and Music Technology: Pioneers, Precedents and Issues in the United States.” Cambridge University Press, 19 Jan. 2004.
+
+Kristen Schilt (2003) ‘A Little Too Ironic’: The Appropriation and Packaging of Riot Grrrl Politics by Mainstream Female Musicians, Popular Music & Society, 26:1, 5-16, DOI: 10.1080/0300776032000076351
+     Schilt cites both discographic and textual works to create a narration of the commercialization of sexuality and feminism in the music industry after the Riot Grrrl movement and political ideology emerged. She references Bikini Kill, the circulation of zines and feminist works, and their eventual movement into more popular or more public spaces and sounds. Lyrics about sexism, racism, and rape are at the forefront of her quoted discographic elements, to help substantiate her claims in this article. I found this article useful for my proposal because it focuses on the issues women in the music industry face and have been connecting about through their art, music, and personal experiences. 
+Mackenzie, Jean. “Rape and Abuse: The Music Industry's Dark Side Exposed.” BBC News, Victoria Derbyshire Programme, 18 Dec. 2018, www.bbc.com/news/entertainment-arts-42368544.
+Prior, Becky, et al. ``Women in the U.S. Music Industry Report.” Berklee Institute for Creative Entrepreneurship.
+http://amce.com.es/uploads/1/0/5/8/105830971/women_in_the_u.s._music_industry_report.pdf
+“Racial and Gender Pay Gap Statistics for 2021.” PayScale, 2021, www.payscale.com/data/gender-pay-gap.
+Staff, Communication and Marketing. “Annenberg Inclusion Initiative's Annual Report on Popular Music Reveals Little Progress for Women.” USC Annenberg School for Communication and Journalism, 8 Mar. 2021, annenberg.usc.edu/news/research-and-impact/annenberg-inclusion-initiatives-annual-report-popular-music-reveals-little. 
   </body>
 </html>
 >
